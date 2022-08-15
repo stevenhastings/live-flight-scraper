@@ -3,11 +3,6 @@
 ## Generic Explanation:
 Create a live-updating application that scrapes flight data from the web
 
-## Focused Explanation:
-In this next example I’ll scrape a website that updates every eight seconds. The site https://www.flightradar24.com receives flight data from around the world and continually updates its page by plotting real time flight data on top of Google maps.
-The data I care about is only going to be the total number of active flights worldwide. This is shown in the upper left corner of the screen, right next to the number of flights contained in the current view. It’s worth noting that flightradar24 data arrives from a number of sources, including radar stations (ADS-B, FLARM, MLAT, FAA) as well as estimated numbers
-
-
 
 ### Resources: 
 *   [Plotly's website: Demos/Galleries/Documentation](https://plotly.com/)
