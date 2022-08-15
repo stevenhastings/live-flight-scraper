@@ -8,7 +8,7 @@ Create a live-updating application that scrapes flight data from the web
 *   [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 
-### Example Code to get you up and running on an example project:
+### Example Code to get you up and running on an Orbital Data project:
 
 ![image](https://user-images.githubusercontent.com/59450769/184566130-a4552720-318e-4747-9a1c-f6716f9e7c1d.png)
 ![image](https://user-images.githubusercontent.com/59450769/184566190-9192c0e3-0c96-4210-aa8b-d3b54a98457a.png)
