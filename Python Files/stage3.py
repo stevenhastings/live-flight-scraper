@@ -39,7 +39,7 @@ app.layout = html.Div([
 def update_layout(n):
     
     # Url to scrape from
-    URL = "https://data-live.flightradar24.com/zones/fcgi/feed.js?faa=1\&mlat=1&flarm=1&adsb=11&gnd=1&air=1&vehicles=1&estimated=1&stats=1"
+    URL = "https://data-live.flightradar24.com/zones/fcgi/feed.js?faa=1\&mlat=1&flarm=1&adsb=1&gnd=1&air=1&vehicles=1&estimated=1&stats=1"
     
     # requesting scraper to go get data.
     res = requests.get(URL, headers={'User-Agent': 'Mozilla/5.0'})
