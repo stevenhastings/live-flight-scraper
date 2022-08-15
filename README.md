@@ -1,5 +1,8 @@
 # live-flight-scraper
+
+## Generic Explanation:
 Create a live-updating application that scrapes flight data from the web
+
 
 ### Resources: 
 *   [Plotly's website: Demos/Galleries/Documentation](https://plotly.com/)
