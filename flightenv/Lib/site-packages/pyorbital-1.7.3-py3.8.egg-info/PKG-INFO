@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: pyorbital
+Version: 1.7.3
+Summary: Orbital parameters and astronomical computations in Python
+Home-page: https://github.com/pytroll/pyorbital
+Author: The Pytroll Team
+Author-email: pytroll@googlegroups.com
+License: UNKNOWN
+Description: Pyorbital
+        =========
+        
+        [![Build status](https://github.com/pytroll/pyorbital/workflows/CI/badge.svg?branch=main)](https://github.com/pytroll/pyorbital/workflows/CI/badge.svg?branch=main)
+        [![Coverage Status](https://coveralls.io/repos/github/pytroll/pyorbital/badge.svg?branch=main)](https://coveralls.io/github/pytroll/pyorbital?branch=main)
+        [![PyPI version](https://badge.fury.io/py/pyorbital.svg)](https://badge.fury.io/py/pyorbital)
+        [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6078954.svg)](https://doi.org/10.5281/zenodo.6078954)
+        
+        
+        
+        This is the Pyorbital, a Python package for computing orbital parameters from TLE
+        files, and making various astronomical computations.
+        
+        It is part of the Pytroll project: http://pytroll.org
+        
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Astronomy
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
